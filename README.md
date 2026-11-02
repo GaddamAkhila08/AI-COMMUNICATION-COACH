@@ -1,13 +1,13 @@
 # AI-Powered Personalized Communication & Interview Coach
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-AnuKumari--2712%2FAI--COMMUNICATION--COACH-blue?logo=github)](https://github.com/GaddamAkhila08/AI-COMMUNICATION-COACH)
-[![React](https://img.shields.io/badge/Frontend-React_19_%2B_Vite_%2B_TS-61DAFB?logo=react)](https://github.com/AnuKumari-2712/AI-COMMUNICATION-COACH)
-[![FastAPI](https://img.shields.io/badge/Backend-FastAPI_%2B_Python_3.11-009688?logo=fastapi)](https://github.com/AnuKumari-2712/AI-COMMUNICATION-COACH)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/AnuKumari-2712/AI-COMMUNICATION-COACH)
+[![React](https://img.shields.io/badge/Frontend-React_19_%2B_Vite_%2B_TS-61DAFB?logo=react)](https://github.com/GaddamAkhila08/AI-COMMUNICATION-COACH)
+[![FastAPI](https://img.shields.io/badge/Backend-FastAPI_%2B_Python_3.11-009688?logo=fastapi)](https://github.com/GaddamAkhila08/AI-COMMUNICATION-COACH)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/GaddamAkhila08/AI-COMMUNICATION-COACH)
 
 An adaptive platform that evaluates a student's communication ability through voice and text, builds a dynamic learner profile, detects weaknesses, and generates a personalized practice plan — grammar, vocabulary, fluency drills, ATS resume evaluation, and full mock interviews, all adapting to the student's own history.
 
-- **GitHub Repository:** [https://github.com/AnuKumari-2712/AI-COMMUNICATION-COACH](https://github.com/AnuKumari-2712/AI-COMMUNICATION-COACH)
+- **GitHub Repository:** [https://github.com/GaddamAkhila08/AI-COMMUNICATION-COACH](https://github.com/GaddamAkhila08/AI-COMMUNICATION-COACH)
 - **Frontend:** React 19 + TypeScript + Tailwind CSS + Framer Motion + React Three Fiber + Recharts + React Router + React Hook Form / Zod
 - **Backend:** Python 3.11 + FastAPI + spaCy (NLP) + scikit-learn (adaptive difficulty) + SpeechRecognition / Faster-Whisper + optional HuggingFace Transformers / Claude AI
 - **Storage:** SQLite locally (`backend/data/coach.db`, zero setup required) and PostgreSQL in production via `DATABASE_URL` (e.g. Render Postgres, Neon, Supabase). *Note: MongoDB is not used.*
