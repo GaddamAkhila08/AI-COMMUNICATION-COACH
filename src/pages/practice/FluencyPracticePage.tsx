@@ -229,13 +229,10 @@ export default function FluencyPracticePage() {
         currentPrompt,
       );
       setResult(analysis);
-    } catch {
-      showToast({
-        title: 'Analysis Error',
-        description: 'Unable to analyze fluency drill. Please speak clearly and try again.',
-        variant: 'error',
-      });
-    } finally {
+   } catch (error) {
+  console.error('Analysis Error:', error);
+  window.alert('Unable to analyze fluency drill. Please speak clearly and try again.');
+} finally {
       setAnalyzing(false);
     }
   };
