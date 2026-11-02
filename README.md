@@ -1,6 +1,6 @@
 # AI-Powered Personalized Communication & Interview Coach
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-AnuKumari--2712%2FAI--COMMUNICATION--COACH-blue?logo=github)](https://github.com/AnuKumari-2712/AI-COMMUNICATION-COACH)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-AnuKumari--2712%2FAI--COMMUNICATION--COACH-blue?logo=github)](https://github.com/GaddamAkhila08/AI-COMMUNICATION-COACH)
 [![React](https://img.shields.io/badge/Frontend-React_19_%2B_Vite_%2B_TS-61DAFB?logo=react)](https://github.com/AnuKumari-2712/AI-COMMUNICATION-COACH)
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI_%2B_Python_3.11-009688?logo=fastapi)](https://github.com/AnuKumari-2712/AI-COMMUNICATION-COACH)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/AnuKumari-2712/AI-COMMUNICATION-COACH)
